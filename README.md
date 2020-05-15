@@ -21,6 +21,13 @@ Despues de teminar este pattern usted entenderá como:
 * Cuenta activa de [IBM Cloud](https://cloud.ibm.com)
 * [IBM Cloud CLI](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use): CLI para desplegar servicios y aplicaciones desde la terminal.
 
+# Ver los videos
+Este repositorio cubre los videos del 1 al 6 del siguiente listado
+
+
+[![](https://img.youtube.com/vi/uJumFAT1NNQ/0.jpg)](https://www.youtube.com/watch?v=uJumFAT1NNQ&list=PLSMvxXwhRqaHPE5scGCepRQPUGVlwxXfV&index=1)
+
+
 # Paso a Paso
 
 ### 1. Clonar el repo
